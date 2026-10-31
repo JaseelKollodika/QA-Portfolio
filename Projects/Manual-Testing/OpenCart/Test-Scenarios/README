@@ -1,0 +1,23 @@
+# OpenCart Test Scenarios
+
+This folder contains test scenarios prepared for the OpenCart application.
+
+## Testing Areas
+
+- User Registration
+- User Login and Logout
+- Forgot Password
+- Product Search
+- Product Details
+- Shopping Cart
+- Checkout
+- Order Management
+- Account Management
+
+## Document
+
+- OpenCart Test Scenarios
+
+## Status
+
+Complete
